@@ -81,7 +81,7 @@ For additional info, contact Tim Fuger at tfuger10@gmail.com
 
 ## Repository Navigation
 
-In this repository you will find 4 files to take note of:
+In this repository you will find 5 files to take note of:
 1. [Jupyter Notebook](Notebook.ipynb) which contains all of the code for this project
 
 2. [zippedData](zippedData) which contains all of the data from each of the 5 movie website sources that the data has been mined from
