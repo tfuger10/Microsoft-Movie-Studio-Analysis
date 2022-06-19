@@ -86,8 +86,8 @@ In this repository you will find 4 files to take note of:
 
 2. [zippedData](zippedData) which contains all of the data from each of the 5 movie website sources that the data has been mined from
 
-3. The [Microsoft Movie Studio Presentation](Microsoft Movie Studio Presentation.pptx) powerpoint file
+3. The [Microsoft_Movie_Studio_Presentation](Microsoft_Movie_Studio_Presentation.pptx) powerpoint file
 
-4. The [Microsoft Movie Studio Presentation](Microsoft Movie Studio Presentation.pdf) PDF file
+4. The [Microsoft_Movie_Studio_Presentation](Microsoft_Movie_Studio_Presentation.pdf) PDF file
 
 5. [images](images) folder which contains all the images that are used in the markdown file
