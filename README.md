@@ -1,7 +1,4 @@
-# dsc_phase1_project
-
-This is the cumulative Phase 1 project
-Author: Timothy Fuger
+# Microsoft Movie Studio Analysis
 
 
 ## Overview
