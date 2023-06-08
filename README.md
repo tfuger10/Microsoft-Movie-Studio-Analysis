@@ -69,12 +69,6 @@ If given more time the following could be pursued:
 - Integrate marketing spending vs profit
 
 
-## For More Information
-
-See the full analysis in the [Jupyter Notebook](Notebook.ipynb) or review this [presentation](Flatiron_Phase1_Project_Presentation.pdf).
-
-For additional info, contact Tim Fuger at tfuger10@gmail.com
-
 
 ## Repository Navigation
 
@@ -88,3 +82,7 @@ In this repository you will find 5 files to take note of:
 4. The [Microsoft_Movie_Studio_Presentation](Presentation/Microsoft_Movie_Studio_Presentation.pdf) PDF file
 
 5. [images](images) folder which contains all the images that are used in the markdown file
+
+
+
+For additional info, contact Tim Fuger at tfuger10@gmail.com
