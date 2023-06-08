@@ -79,12 +79,12 @@ For additional info, contact Tim Fuger at tfuger10@gmail.com
 ## Repository Navigation
 
 In this repository you will find 5 files to take note of:
-1. [Jupyter Notebook](Notebook.ipynb) which contains all of the code for this project
+1. [EDA](EDA.ipynb) which contains all of the code for this project
 
 2. [zippedData](zippedData) which contains all of the data from each of the 5 movie website sources that the data has been mined from
 
-3. The [Microsoft_Movie_Studio_Presentation](Microsoft_Movie_Studio_Presentation.pptx) powerpoint file
+3. The [Microsoft_Movie_Studio_Presentation](Presentation/Microsoft_Movie_Studio_Presentation.pptx) powerpoint file
 
-4. The [Microsoft_Movie_Studio_Presentation](Microsoft_Movie_Studio_Presentation.pdf) PDF file
+4. The [Microsoft_Movie_Studio_Presentation](Presentation/Microsoft_Movie_Studio_Presentation.pdf) PDF file
 
 5. [images](images) folder which contains all the images that are used in the markdown file
