@@ -68,6 +68,10 @@ If given more time the following could be pursued:
 
 - Integrate marketing spending vs profit
 
+## Reproducibility
+
+There is a "im.db.zip" file located in the zippedData directory. That file will need to be extracted prior to running the EDA notebook.
+
 
 
 ## Repository Navigation
